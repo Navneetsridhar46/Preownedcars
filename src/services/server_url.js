@@ -1,0 +1,1 @@
+export const SERVER_URL = "https://preownedcars-json-server.onrender.com"
